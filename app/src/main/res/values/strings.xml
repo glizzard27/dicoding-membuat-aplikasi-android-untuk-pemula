@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Cryptopedia</string>
+
+    <string name="cryptos_name">Nama Cryptocurrency</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About Me</string>
+    <string name="about_name">Muhammad Fajar Baihaqi</string>
+    <string name="about_email">muhammadfajarbaihaqi27@gmail.com</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string-array name="data_name">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>USDT</item>
+        <item>BNB</item>
+        <item>Solana</item>
+        <item>XRP</item>
+        <item>USDC</item>
+        <item>Cardano</item>
+        <item>Avalanche</item>
+        <item>Dogecoin</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Bitcoin Diluncurkan pada tahun 2009, Bitcoin merupakan koin kripto pertama dan paling terkenal. Dikenal dengan sistem terdesentralisasinya, Bitcoin memiliki nilai yang fluktuatif dan sering menjadi sorotan media. Bitcoin sering dilihat sebagai aset digital dan emas digital. Bitcoin diciptakan oleh Satoshi Nakamoto, sosok misterius yang identitasnya belum diketahui. Bitcoin menggunakan teknologi blockchain untuk mencatat transaksi dan menjaga keamanannya. Bitcoin memiliki persediaan terbatas, yaitu 21 juta koin, yang membuatnya semakin langka dan berharga.
+        </item>
+        <item>Ethereum bukan hanya koin kripto (ETH) tetapi juga platform blockchain yang memungkinkan pembuatan aplikasi terdesentralisasi (dApps) dan kontrak pintar. Platform ini telah menjadi landasan bagi banyak proyek inovatif dalam bidang keuangan terdesentralisasi (DeFi), seni digital (NFT), dan lainnya. Ethereum didirikan oleh Vitalik Buterin pada tahun 2015. Ethereum menggunakan teknologi blockchain yang lebih canggih dibandingkan Bitcoin, memungkinkan eksekusi kode dan pembuatan dApps. Ethereum memiliki komunitas developer yang besar dan aktif, yang terus mengembangkan platform dan menciptakan dApps baru.
+        </item>
+        <item>USDT adalah stablecoin yang dipatok 1:1 dengan USD. Koin ini menawarkan stabilitas harga dan kemudahan konversi bagi para investor yang ingin menghindari volatilitas tinggi koin kripto lainnya. USDT banyak digunakan dalam perdagangan dan transaksi kripto. USDT diterbitkan oleh Tether Limited, sebuah perusahaan yang berbasis di Hong Kong. USDT telah menjadi stablecoin paling populer di dunia, dengan kapitalisasi pasar yang besar. USDT dikritik karena kurangnya transparansi dan sentralisasi.
+        </item>
+        <item>Binance Coin (BNB) adalah mata uang digital yang digunakan untuk pembayaran biaya di bursa Binance. BNB juga menawarkan berbagai manfaat dalam ekosistem Binance, seperti akses ke token sale dan staking rewards. BNB telah menjadi salah satu koin kripto dengan kapitalisasi pasar terbesar. BNB diciptakan oleh Binance, bursa kripto terbesar di dunia. BNB digunakan untuk membayar biaya trading di Binance dengan diskon. BNB juga dapat digunakan untuk berpartisipasi dalam Launchpad Binance, platform untuk meluncurkan token baru. BNB memiliki potensi untuk terus berkembang seiring dengan pertumbuhan Binance.
+        </item>
+        <item>Solana adalah platform blockchain yang menjanjikan skalabilitas tinggi dan biaya transaksi rendah. Platform ini ideal untuk dApps dan DeFi, memungkinkan transaksi yang cepat dan murah. Solana didirikan oleh Anatoly Yakovenko pada tahun 2017. Solana menggunakan teknologi blockchain Proof of History (PoH) yang inovatif, yang memungkinkan skalabilitas tinggi tanpa mengorbankan keamanan. Solana telah menarik banyak perhatian dan investasi dalam beberapa tahun terakhir. Solana memiliki potensi untuk menjadi platform blockchain utama untuk dApps dan DeFi.
+        </item>
+        <item>XRP adalah mata uang digital yang dirancang untuk memfasilitasi pembayaran lintas batas yang cepat dan murah. XRP bekerja sama dengan bank dan lembaga keuangan untuk menyediakan solusi pembayaran global yang efisien. XRP didirikan oleh Ripple Labs pada tahun 2012. XRP menggunakan teknologi blockchain yang memungkinkan transaksi yang cepat dan murah. XRP memiliki potensi besar untuk mengubah cara transfer uang internasional dilakukan. XRP dikritik karena sentralisasi dan hubungannya dengan Ripple Labs.
+        </item>
+        <item>USD Coin (USDC) adalah stablecoin lain yang dipatok 1:1 dengan USD. Diterbitkan oleh Coinbase dan Circle, USDC menawarkan alternatif USDT dan memberikan stabilitas harga bagi para investor kripto. USDC banyak digunakan dalam perdagangan dan transaksi DeFi. USDC diterbitkan oleh Centre Consortium, sebuah konsorsium yang terdiri dari Coinbase dan Circle. USDC diaudit secara berkala untuk memastikan kepatuhan terhadap cadangan USD. USDC memiliki potensi untuk menjadi stablecoin yang lebih terpercaya dan transparan dibandingkan USDT.
+        </item>
+        <item>Cardano adalah platform blockchain yang fokus pada skalabilitas, interoperability, dan keberlanjutan. Platform ini menggunakan Proof of Stake (PoS) yang lebih hemat energi dibandingkan Proof of Work (PoW) yang digunakan Bitcoin. Cardano didirikan oleh Charles Hoskinson pada tahun 2015. Cardano menggunakan teknologi blockchain Ouroboros yang inovatif, yang memungkinkan skalabilitas dan keamanan. Cardano memiliki komunitas developer yang besar dan aktif, yang terus mengembangkan platform dan menciptakan dApps baru. Cardano memiliki potensi untuk menjadi platform blockchain yang lebih ramah lingkungan dan berkelanjutan dibandingkan Bitcoin.
+        </item>
+        <item>Avalanche adalah platform blockchain yang memungkinkan pembuatan subnet khusus dengan skalabilitas tinggi dan keamanan terjamin. Platform ini ideal untuk berbagai use case, seperti dApps, enterprise, dan pemerintah. Avalanche didirikan oleh Emin Gün Sirer pada tahun 2018. Avalanche menggunakan teknologi blockchain Snowman consensus protocol, yang memungkinkan transaksi cepat dan biaya rendah. Avalanche telah menarik banyak perhatian dan investasi dalam beberapa tahun terakhir. Avalanche memiliki potensi untuk menjadi platform blockchain yang scalable dan aman untuk berbagai use case.
+        </item>
+        <item>Dogecoin adalah koin meme yang terinspirasi dari internet dan memiliki gambar anjing Shiba Inu sebagai logonya. Meskipun awalnya dibuat sebagai lelucon, Dogecoin memiliki komunitas yang aktif dan nilai yang fluktuatif. Dogecoin diciptakan oleh Billy Markus dan Jackson Palmer pada tahun 2013. Dogecoin menggunakan teknologi blockchain yang sama dengan Litecoin. Dogecoin sering digunakan untuk memberi tip di media sosial dan sebagai hadiah online. Dogecoin memiliki potensi untuk menjadi mata uang digital yang populer untuk pembayaran online dan microtransactions.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bitcoin</item>
+        <item>@drawable/ethereum</item>
+        <item>@drawable/usdt</item>
+        <item>@drawable/bnb</item>
+        <item>@drawable/solana</item>
+        <item>@drawable/xrp</item>
+        <item>@drawable/usdc</item>
+        <item>@drawable/cardano</item>
+        <item>@drawable/avalanche</item>
+        <item>@drawable/dogecoin</item>
+    </integer-array>
+</resources>
